@@ -7,7 +7,7 @@
 1. Склонируйте репозиторий:
 
    ```shell
-   git clone https://github.com/username/my-project.git
+   git clone https://github.com/exetch/flask-talent-finder.git
    ```
 2. Установите зависимости:
    ```shell
