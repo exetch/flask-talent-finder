@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  <h1>Найдено со скиллом {{ skill_name }}: {{ count }}</h1>
+  {% if count > 0 %}
+    <ul>
+      {% for candidate in candidates %}
+        <li><a href="/candidate/{{ candidate['id'] }}">{{ candidate['name'] }}</a></li>
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>Кандидаты со скиллом {{ skill_name }} не найдены</p>
+  {% endif %}
+{% endblock %}

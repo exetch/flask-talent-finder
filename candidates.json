@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "name": "Adela Hendricks",
+    "picture": "https://picsum.photos/200",
+    "position": "Go разработчик",
+    "gender": "female",
+    "age": 40,
+    "skills": "go, python"
+  },
+  {
+    "id": 2,
+    "name": "Sheri Torres",
+    "picture": "https://picsum.photos/200",
+    "position": "Delphi developer",
+    "gender": "female",
+    "age": 26,
+    "skills": "Delphi, pascal, fortran, basic"
+  },
+  {
+    "id": 3,
+    "name": "Burt Stein",
+    "picture": "https://picsum.photos/200",
+    "position": "Team lead",
+    "gender": "male",
+    "age": 33,
+    "skills": "делегирование, пользоваться календарем, обсуждать важные вопросы"
+  },
+  {
+    "id": 4,
+    "name": "Bauer Adkins",
+    "picture": "https://picsum.photos/200",
+    "position": "CTO",
+    "gender": "male",
+    "age": 37,
+    "skills": "very important face"
+  },
+  {
+    "id": 5,
+    "name": "Day Holloway",
+    "picture": "https://picsum.photos/200",
+    "position": "HR manager",
+    "gender": "male",
+    "age": 35,
+    "skills": "LinkedIn, telegram, spam, spam, spam"
+  },
+  {
+    "id": 6,
+    "name": "Austin Cochran",
+    "picture": "https://picsum.photos/200",
+    "position": "python-develop",
+    "gender": "male",
+    "age": 26,
+    "skills": "python, html"
+  },
+  {
+    "id": 7,
+    "name": "Sheree Love",
+    "picture": "https://picsum.photos/200",
+    "position": "Django developer",
+    "gender": "female",
+    "age": 33,
+    "skills": "Python, Django, flask"
+  },
+  {
+    "id": 8,
+    "name": "Emma Johnson",
+    "picture": "https://picsum.photos/200",
+    "position": "Data Scientist",
+    "gender": "female",
+    "age": 32,
+    "skills": "python, machine learning, statistics"
+  },
+  {
+    "id": 9,
+    "name": "Michael Davis",
+    "picture": "https://picsum.photos/200",
+    "position": "DevOps инженер",
+    "gender": "male",
+    "age": 38,
+    "skills": "docker, kubernetes, jenkins, aws"
+  },
+  {
+    "id": 10,
+    "name": "Sophia Wilson",
+    "picture": "https://picsum.photos/200",
+    "position": "Backend разработчик",
+    "gender": "female",
+    "age": 31,
+    "skills": "java, spring, mysql"
+  },
+  {
+    "id": 11,
+    "name": "Oliver Thompson",
+    "picture": "https://picsum.photos/200",
+    "position": "UI/UX дизайнер",
+    "gender": "male",
+    "age": 29,
+    "skills": "photoshop, illustrator, wireframing"
+  },
+  {
+    "id": 12,
+    "name": "Ava Anderson",
+    "picture": "https://picsum.photos/200",
+    "position": "Full-stack разработчик",
+    "gender": "female",
+    "age": 26,
+    "skills": "javascript, react, node.js, mongodb"
+  },
+  {
+    "id": 13,
+    "name": "William Garcia",
+    "picture": "https://picsum.photos/200",
+    "position": "QA инженер",
+    "gender": "male",
+    "age": 35,
+    "skills": "manual testing, automated testing, selenium"
+  },
+  {
+    "id": 14,
+    "name": "Mia Martinez",
+    "picture": "https://picsum.photos/200",
+    "position": "Data Engineer",
+    "gender": "female",
+    "age": 37,
+    "skills": "python, sql, etl, big data"
+  },
+  {
+    "id": 15,
+    "name": "James Robinson",
+    "picture": "https://picsum.photos/200",
+    "position": "Сетевой администратор",
+    "gender": "male",
+    "age": 33,
+    "skills": "network configuration, troubleshooting, cisco"
+  },
+  {
+    "id": 16,
+    "name": "Charlotte Hernandez",
+    "picture": "https://picsum.photos/200",
+    "position": "Frontend разработчик",
+    "gender": "female",
+    "age": 30,
+    "skills": "html, css, javascript, react"
+  },
+  {
+    "id": 17,
+    "name": "Benjamin Moore",
+    "picture": "https://picsum.photos/200",
+    "position": "DevOps инженер",
+    "gender": "male",
+    "age": 36,
+    "skills": "aws, docker, jenkins, kubernetes"
+  },
+  {
+    "id": 18,
+    "name": "Amelia Taylor",
+    "picture": "https://picsum.photos/200",
+    "position": "Backend разработчик",
+    "gender": "female",
+    "age": 29,
+    "skills": "java, spring, mysql, restful api"
+  },
+  {
+    "id": 19,
+    "name": "Daniel Lewis",
+    "picture": "https://picsum.photos/200",
+    "position": "UI/UX дизайнер",
+    "gender": "male",
+    "age": 27,
+    "skills": "photoshop, illustrator, wireframing"
+  },
+  {
+    "id": 20,
+    "name": "Sofia Clark",
+    "picture": "https://picsum.photos/200",
+    "position": "Full-stack разработчик",
+    "gender": "female",
+    "age": 34,
+    "skills": "javascript, react, node.js, mongodb"
+  },
+  {
+    "id": 21,
+    "name": "David Allen",
+    "picture": "https://picsum.photos/200",
+    "position": "QA инженер",
+    "gender": "male",
+    "age": 36,
+    "skills": "manual testing, automated testing, selenium"
+  },
+  {
+    "id": 22,
+    "name": "Victoria Adams",
+    "picture": "https://picsum.photos/200",
+    "position": "Data Engineer",
+    "gender": "female",
+    "age": 28,
+    "skills": "python, sql, etl, big data"
+  },
+  {
+    "id": 23,
+    "name": "Ethan Hill",
+    "picture": "https://picsum.photos/200",
+    "position": "Сетевой администратор",
+    "gender": "male",
+    "age": 40,
+    "skills": "network configuration, troubleshooting, cisco"
+  },
+  {
+    "id": 24,
+    "name": "Grace Young",
+    "picture": "https://picsum.photos/200",
+    "position": "Frontend разработчик",
+    "gender": "female",
+    "age": 24,
+    "skills": "html, css, javascript, react"
+  },
+  {
+    "id": 25,
+    "name": "Lucas Turner",
+    "picture": "https://picsum.photos/200",
+    "position": "DevOps инженер",
+    "gender": "male",
+    "age": 29,
+    "skills": "aws, docker, jenkins, kubernetes"
+  },
+  {
+    "id": 26,
+    "name": "Chloe Baker",
+    "picture": "https://picsum.photos/200",
+    "position": "Backend разработчик",
+    "gender": "female",
+    "age": 30,
+    "skills": "java, spring, mysql, restful api"
+  },
+  {
+    "id": 27,
+    "name": "Liam Garcia",
+    "picture": "https://picsum.photos/200",
+    "position": "UI/UX дизайнер",
+    "gender": "male",
+    "age": 38,
+    "skills": "photoshop, illustrator, wireframing"
+  },
+  {
+    "id": 28,
+    "name": "Emily Foster",
+    "picture": "https://picsum.photos/200",
+    "position": "Full-stack разработчик",
+    "gender": "female",
+    "age": 26,
+    "skills": "javascript, react, node.js, mongodb"
+  },
+  {
+    "id": 29,
+    "name": "Mason Powell",
+    "picture": "https://picsum.photos/200",
+    "position": "QA инженер",
+    "gender": "male",
+    "age": 35,
+    "skills": "manual testing, automated testing, selenium"
+  },
+  {
+    "id": 30,
+    "name": "Harper Carter",
+    "picture": "https://picsum.photos/200",
+    "position": "Data Engineer",
+    "gender": "female",
+    "age": 37,
+    "skills": "python, sql, etl, big data"
+  }
+]
